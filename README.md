@@ -11,6 +11,5 @@ Instagram LinkedIn
 💻 Tech Stack:
 C++ JavaScript NodeJS React
 
-📊 GitHub Stats:
 
 
