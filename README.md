@@ -1,16 +1,16 @@
-## Hi there 👋
+💫 About Me:
+🌱 Currently learning Data Structures & Algorithms (DSA) and web Development
+💻 Strong interest in Web Development and Software Engineering
+⚡ Love working with C++, STL, and JavaScript
+🧠 Always curious about how things work under the hood
+🎯 Goal: Become a highly skilled Full-Stack & Mobile App Developer
 
-<!--
-**Ayush-coader/Ayush-coader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C++ JavaScript NodeJS React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
