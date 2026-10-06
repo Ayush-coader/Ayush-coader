@@ -3,13 +3,11 @@
 💻 Strong interest in Web Development and Software Engineering
 ⚡ Love working with C++, STL, and JavaScript
 🧠 Always curious about how things work under the hood
-🎯 Goal: Become a highly skilled Full-Stack & Mobile App Developer
+🎯 Goal: Become a highly skilled Full-Stack Developer
 
-🌐 Socials:
-Instagram LinkedIn
 
 💻 Tech Stack:
-C++ JavaScript NodeJS React
+C++ JavaScript NodeJS React MongoDB 
 
 
 
